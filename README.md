@@ -11,7 +11,9 @@
 <a href="https://jupyter.org/" rel="nofollow"><img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" style="max-width: 100%;"></a>
 <a href="https://aws.amazon.com/" rel="nofollow"><img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;"></a>
-<a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a></p>
+<a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="max-width: 100px;"></a>
+<a href="https://angular.io/" rel="nofollow"><img align="left" alt="VSCode"  width="90px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"></a>
+</p>
 <br>
 <h1 dir="auto"></h1>
 <details open="">
