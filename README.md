@@ -14,7 +14,7 @@
 <a href="https://git-scm.com/" rel="nofollow"><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-8" rel="nofollow"><img align="left" alt="DotNetCore8" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
-<a href="https://angular.io/" rel="nofollow"><img align="left" alt="VSCode"  width="90px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"></a>
+<a href="https://angular.io/" rel="nofollow"><img align="left" alt="VSCode"  width="25px" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-476x512-31akx6uw.png"></a>
 <a href="https://www.javascript.com/" rel="nofollow"><img align="left" alt="Javascript"  width="20px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img align="left" alt="Typescript"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a>  
 <a href="https://www.w3.org/TR/2011/WD-html5-20110405" rel="nofollow"><img align="left" alt="htm5"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
