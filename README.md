@@ -10,6 +10,9 @@
 <p dir="auto"><a href="https://www.python.org/" rel="nofollow"><img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
 <a href="https://jupyter.org/" rel="nofollow"><img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" style="max-width: 100%;"></a>
 <a href="https://aws.amazon.com/" rel="nofollow"><img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" style="max-width: 100%;"></a>
+
+<a href="https://cloudacademy.com/blog/microsoft-announcing-new-azure-features/" rel="nofollow"><img align="left" alt="Azure" width="30px" src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png" style="max-width: 100%;"></a>
+  
 <a href="https://git-scm.com/" rel="nofollow"><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="max-width: 100px;"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-8" rel="nofollow"><img align="left" alt="DotNetCore8" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
