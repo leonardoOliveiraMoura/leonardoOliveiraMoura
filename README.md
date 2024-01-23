@@ -20,7 +20,8 @@
 <a href="https://www.w3.org/TR/2011/WD-html5-20110405" rel="nofollow"><img align="left" alt="htm5"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
 <a href="https://https://sass-lang.com/" rel="nofollow"><img align="left" alt="sass"  width="25px" src="https://sass-lang.com/assets/img/logos/logo.svg"></a>
 <a href="https://react.dev/" rel="nofollow"><img align="left" alt="react"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
-<a href="https://www.postgresql.org/" rel="nofollow"><img align="left" alt="postgree"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></a> 
+<a href="https://www.postgresql.org/" rel="nofollow"><img align="left" alt="postgree"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img align="left" alt="mysql"  width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel="nofollow"><img align="left" alt="machine-learn"  width="80px" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png"></a>
 <a href="https://www.sqlite.org/index.html" rel="nofollow"><img align="left" alt="machine-learn"  width="25px" src="https://static-00.iconduck.com/assets.00/application-x-sqlite-icon-374x512-5kuynjss.png"></a>
 <a href="https://en.wikipedia.org/wiki/Machine_learning" rel="nofollow"><img align="left" alt="machine-learn"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png"></a>
