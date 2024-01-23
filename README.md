@@ -24,6 +24,8 @@
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel="nofollow"><img align="left" alt="machine-learn"  width="80px" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png"></a>
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" rel="nofollow"><img align="left" alt="machine-learn"  width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png"></a>
+
+<a href="https://ads.google.com/intl/pt-BR_br/start/overview-ha/?subid=br-pt-ha-awa-bk-c-scru!o3~EAIaIQobChMI0rLPl-LzgwMVsBCtBh38HAB4EAAYASAAEgIMJPD_BwE~140965879609~aud-780873439152:kwd-94527731~17334788550~663300969282&gad_source=1&gclid=EAIaIQobChMI0rLPl-LzgwMVsBCtBh38HAB4EAAYASAAEgIMJPD_BwE&gclsrc=aw.ds" rel="nofollow"><img align="left" alt="google ads"  width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_169088.png"></a>
   
 </p>
 <br>
